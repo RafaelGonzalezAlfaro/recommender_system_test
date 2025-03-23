@@ -56,26 +56,38 @@ Para acceder a los datasets de la plataforma, agrega /datasets/ al principio de 
 - Estructura **ab_project__marketing_events_us.csv**:
 
 ***name***— el nombre del evento de marketing
+
 ***regions*** — regiones donde se llevará a cabo la campaña publicitaria
+
 ***start_dt*** — fecha de inicio de la campaña
+
 ***finish_dt***— fecha de finalización de la campaña
+
 
 - Estructura **final_ab_new_users_upd_us.csv**:
 
 ***user_id***
+
 ***first_date*** — fecha de inscripción
+
 ***region***
+
 ***device*** — dispositivo utilizado para la inscripción
 
 - Estructura **final_ab_events_upd_us.csv**:
 
 ***user_id***
+
 ***event_dt*** — fecha y hora del evento
+
 ***event_name*** — nombre del tipo de evento
+
 ***details*** — datos adicionales sobre el evento (por ejemplo, el pedido total en USD para los eventos purchase)
 
 - Estructura **final_ab_participants_upd_us.csv**:
 
 ***user_id***
+
 ***ab_test*** — nombre de la prueba
+
 ***group*** — el grupo de prueba al que pertenecía el usuario
