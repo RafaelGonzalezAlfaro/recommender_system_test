@@ -6,9 +6,9 @@ Has recibido una tarea analítica de una tienda en línea internacional. Tus pre
 lanzaron una prueba A/B y luego abandonaron (para iniciar una granja de sandías en Brasil). Solo dejaron las especificaciones técnicas y los resultados de las pruebas.
 
 # Metodología
-**Preprocesamiento de datos:** Se limpiaron y estandarizaron los datos, eliminando inconsistencias y verificando la ausencia de duplicados y valores faltantes.
-**Exploratory Data Analysis (EDA):** Se analizaron distintos datos, se crearon graficas para visualizacion de datos mas claramente
-**Pruebas A/B:** Se realizaron pruebas A/B para comprobar si el comportambiento entre ambos grupos es significativamente distinto.
+- **Preprocesamiento de datos:** Se limpiaron y estandarizaron los datos, eliminando inconsistencias y verificando la ausencia de duplicados y valores faltantes.
+- **Exploratory Data Analysis (EDA):** Se analizaron distintos datos, se crearon graficas para visualizacion de datos mas claramente
+- **Pruebas A/B:** Se realizaron pruebas A/B para comprobar si el comportambiento entre ambos grupos es significativamente distinto.
 
 Herramientas utilizadas en este proyecto:
 
